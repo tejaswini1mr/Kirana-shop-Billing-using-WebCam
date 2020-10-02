@@ -8,7 +8,12 @@ Type the following commands in your terminal:
 
 cd path/to/directory/
 git clone https://github.com/tejaswini1mr/Kirana-shop-Billing-using-WebCam
+
 cd TCS_INFRAMIND3-master
+
 pip install requirements.txt
+
 python app.py
-Screenshots
+
+Screenshots:
+![]()
